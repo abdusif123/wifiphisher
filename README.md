@@ -1,1 +1,2 @@
 # wifiphisher
+pkg install python
